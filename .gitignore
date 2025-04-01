@@ -1,0 +1,9 @@
+# output
+dist/
+
+# compiled files
+*.js
+*.d.ts
+
+# node
+node_modules/

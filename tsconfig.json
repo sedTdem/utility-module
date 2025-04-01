@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./utility-library",
+    "strict": true,
+    "esModuleInterop": true
+  },
+    "include": [
+      "utility-library/**/*.ts"
+    ]
+  }
+  
