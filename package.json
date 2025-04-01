@@ -1,6 +1,6 @@
 {
     "name": "utility-library",
-    "version": "4.0.1",
+    "version": "5.0.0",
     "description": "A utility library for greeting",
     "main": "dist/utils.js",
     "types": "dist/utils.d.ts",

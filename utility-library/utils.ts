@@ -1,5 +1,5 @@
 //utility-library/utils.ts
 
 export function greet(name: string): string {
-    return `HelloModule V4, ${name}!`;
+    return `HelloModule V5, ${name}!`;
   }
